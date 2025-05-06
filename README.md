@@ -197,11 +197,12 @@ I want to acknowledge that I have incorporated some of my professor's files and 
 <img src="https://media.giphy.com/media/wcVQHVg5lYsCDkxz4J/giphy.gif?cid=ecf05e47yz4oc4o3pl85zwujqt2e6xumb1fhticxniefaqmu&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
 </div>
 
-<!-- End point line insert Comeback again next time, feel free to modify this  -->
+<!-- End point line insert Comeback again next time, feel free to modify this 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=💎💎Come+Back+Again+next+time💎💎" alt="mystreak"/>
 </p>
-
+ -->
+ 
 </p>
     
 <br>
