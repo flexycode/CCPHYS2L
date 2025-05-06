@@ -125,6 +125,35 @@ Coming Soon
 Coming Soon This fall off November
 ```
 
+# 🏆 Contributing
+
+### Contributing     
+If you would like to contribute to the Flight Booking App, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the main repository.
+
+### 🧠 Submitting Changes
+
+🧠 Contributions are welcome! If you have ideas for improvements or want to add more exercises, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Push to your fork and submit a pull request. 💕💕💕💕
+
+### 👋 Contributors
+### Special thanks to all my groupmates: 
+ * ####  😎 [Jay Arre Talosig](https://github.com/flexycode) - Machine Learning Engineer | Blockchain Developer | Bioinformatics Scientist
+ * ####  🎲 [Brian De Vera](https://github.com/scarfer14) - Network Security Engineer | Cyber Security Engineer | Robotics Engineer | Whitehat     
+ * ####  🧭 [Custer Valencerina](https://github.com/Cegeurun) - Machine Learning Engineer | Full Stack Engineer | Front-End Developer
+ * ####  🛸 [Anthonee Buno](https://github.com/leirk04) - Software Engineer | Fullstack Developer  
+ * ####  ✨ [Aliamae Dannas Garcia](https://www.youtube.com/) - Machine Learning Engineer | Software Engineer
+ * ####  🦾 [Jed Nathan Poserio](https://www.youtube.com/) - Software Engineer | Forensic Engineer
+ * ####  🚀 [Hans Monjardin](https://www.youtube.com/)- Software Engineer | Forensic Engineer
+
 # 🔭 Acknowledgements   
 
 ### ✨ Professor
