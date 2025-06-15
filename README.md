@@ -10,6 +10,7 @@
 ### Professor: Mr. Raul B. Borlungay
 ### No. of Units: 3 Units
 ### Prerequisite: [CPHYS2L: COLLEGE PHYSICS 1](https://github.com/flexycode/CCPHYS1L)
+### Final Project: [Physics 2 Final Project](https://ccphys2l-flexycode.netlify.app/)
 
 ## 🧠 Overview
 
@@ -180,6 +181,10 @@ I want to acknowledge that I have incorporated some of my professor's files and 
 
 ### Fixed 
 - ✨ Fix changelogs
+
+## [0.0.1] - 2025-06-15     
+### Added  
+- ✨ Create Repository for Physics 2 Final Project
 
 💫 CCPHYS2L - PHYSICS 2
 
